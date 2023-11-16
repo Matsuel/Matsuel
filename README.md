@@ -77,3 +77,24 @@ export default MySelf;
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Matsuel&theme=dark&hide_border=false)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Matsuel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+### My pc's Specs:
+<br>
+
+#### Home:
+<br>
+
+![](https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![](https://img.shields.io/badge/NVIDIA-GTX1660-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+<br>
+
+### Work:
+
+<br>
+
+![](https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![](https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+
+---
