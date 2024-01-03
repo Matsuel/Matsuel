@@ -4,28 +4,6 @@
 </div>
 <br>
 
-```jsx
-const MySelf = {
-    completedProjects: {
-        PassWordManagerReactNative: {
-            Privacy:"Private"
-        },
-        copyCommitsFromAnOtherRepo:{
-            Privacy: "Public"
-        }
-    },
-    currentProjects: {
-        "AppMeteo-ReactNative": {
-            Privacy: "Private"
-        },
-        "Whastapp-Clone": {
-            Privacy: "Public"
-        }
-    }
-};
-
-export default MySelf;
-```
 
 ### 💻 My technologies :
 <br>
