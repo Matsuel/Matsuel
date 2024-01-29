@@ -57,15 +57,13 @@
 
 
 ### My pc's Specs:
-<br>
 
-#### Home:
+### Home:
 <br>
 
 ![](https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![](https://img.shields.io/badge/NVIDIA-GTX1660-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
-<br>
 
 ### Work:
 
